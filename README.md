@@ -178,9 +178,13 @@ A web-based platform designed to simplify export documentation and parcel-proces
   <a href="https://www.credly.com/badges/0ebaad48-62d7-44e1-8577-fa671e250f08/public_url">
     <img src="https://img.shields.io/badge/Verified%20Credential-6D28D9?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
+  <a href="https://coursera.org/verify/QYD6W5EHFRYJ">
+    <img src="https://img.shields.io/badge/Google%20Coursera-Stay%20Ahead%20of%20the%20AI%20Curve-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
 </p>
 
 [Credly Profile](https://www.credly.com/users/yash-sanjayrao-jadhao)
+[Coursera Certificate – Stay Ahead of the AI Curve](https://coursera.org/verify/QYD6W5EHFRYJ)
 
 > Badge titles are linked directly to the user's public Credly credentials rather than being guessed from badge IDs.
 
@@ -268,11 +272,11 @@ A web-based platform designed to simplify export documentation and parcel-proces
 
 ```yaml
 learning:
-  - Advanced JavaScript
+  - Data Structures & Algorithms
   - React fundamentals
   - SQL and database design
   - Backend development
-  - AI/ML fundamentals
+  - System Design fundamentals
 
 building:
   - Practical full-stack web applications
